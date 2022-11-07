@@ -22,6 +22,10 @@ In this project, we aim to learn and implement different motion planning algorit
 ## Motion Planning for a quadcopter
 
 Here we tried to implement Astar algorithm to achieve motion planning of a quadcopter
+<p float="left">
+  <img src="/Nav.gif" width="80" />
+  <img src="/Quad_Nav.gif" width="80" /> 
+</p>
 ![](https://github.com/RiVer2000/Quadcopter-Navigation/blob/main/Quad_Nav.gif)
 
 
