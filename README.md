@@ -5,11 +5,11 @@ In this project, we aim to learn and implement different motion planning algorit
 ### Path planning algorithms for point object
 **Dijkstra**
 
-![](https://github.com/Ayush1285/Quadcopter_Planning/blob/main/Grid_Motion_Planning/Dijkstra_Astar/DijkstraGrid.gif)
+![](https://github.com/RiVer2000/Quadcopter-Navigation/blob/main/Dijkstra_Astar/DijkstraGrid.gif)
 
 **A  star**
 
-![](https://github.com/Ayush1285/Quadcopter_Planning/blob/main/Grid_Motion_Planning/Dijkstra_Astar/AstarGrid.gif)
+![](https://github.com/RiVer2000/Quadcopter-Navigation/blob/main/Dijkstra_Astar/AstarGrid.gif)
 
 **Artificial Potential Field**
 
@@ -17,7 +17,7 @@ In this project, we aim to learn and implement different motion planning algorit
 
 **Quiver Plot for APF method**
 
-![](https://github.com/Ayush1285/Quadcopter_Planning/blob/main/Grid_Motion_Planning/Artificial%20Potential%20field/quiver_plot.jpg)
+![](https://github.com/RiVer2000/Quadcopter-Navigation/blob/main/Artificial%20Potential%20field/quiver_plot.jpg)
 
 ### Motion Planning for a quadcopter
 ![](https://github.com/RiVer2000/Quadcopter-Navigation/blob/main/Quad_Nav.gif)
