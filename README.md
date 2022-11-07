@@ -19,7 +19,9 @@ In this project, we aim to learn and implement different motion planning algorit
 
 ![](https://github.com/RiVer2000/Quadcopter-Navigation/blob/main/Artificial%20Potential%20field/quiver_plot.jpg)
 
-### Motion Planning for a quadcopter
+## Motion Planning for a quadcopter
+
+Here we tried to implement Astar algorithm to achieve motion planning of a quadcopter
 ![](https://github.com/RiVer2000/Quadcopter-Navigation/blob/main/Quad_Nav.gif)
 
 
