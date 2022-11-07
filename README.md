@@ -13,7 +13,7 @@ In this project, we aim to learn and implement different motion planning algorit
 
 **Artificial Potential Field**
 
-![](https://github.com/Ayush1285/Quadcopter_Planning/blob/main/Grid_Motion_Planning/Artificial%20Potential%20field/artificial_potential.gif)
+![](https://github.com/RiVer2000/Quadcopter-Navigation/blob/main/Artificial%20Potential%20field/artificial_potential.gif)
 
 **Quiver Plot for APF method**
 
