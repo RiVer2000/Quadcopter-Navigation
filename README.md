@@ -23,8 +23,8 @@ In this project, we aim to learn and implement different motion planning algorit
 
 Here we tried to implement Astar algorithm to achieve motion planning of a quadcopter. Further we tried to implement minimum snap to minimise the control effort.
 <p float="left">
-  <img src="/Nav.gif" width="450" />
-  <img src="/Quad_Nav.gif" width="450" /> 
+  <img src="/Nav.gif" width="500" />
+  <img src="/Quad_Nav.gif" width="500" /> 
 </p>
 
 
